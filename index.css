@@ -1,0 +1,57 @@
+header{
+    background-color: black;
+    background-size: auto;
+    color: aliceblue;
+    width: 100%;
+    padding: 0px;
+    margin: 0 auto;
+}
+
+h1{
+
+    font-family: 'Acumin Pro', Acumin;
+    text-align: left;
+
+}
+nav{
+    margin: 0 auto;
+    padding: 0;
+}
+
+nav li{
+    color:aliceblue;
+    font-family: 'Acumin Pro', Acumin;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    height: 20px;
+    width: 100px;
+    padding: 20px;
+    margin: 5px;
+}
+
+header .toplogo{
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 450px;
+    width: 300px;
+    
+}
+.about p{
+    column-count: 2;
+}
+
+.resume p{
+    column-count: 2;
+}
+
+.projects p{
+    column-count: 2;
+}
+#name{  
+    text-align: center;
+    padding: 20px ;
+    margin-left: 300px;
+  
+}
