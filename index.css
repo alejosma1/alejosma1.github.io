@@ -5,6 +5,7 @@ header{
     width: 100%;
     padding: 0px;
     margin: 0 auto;
+
 }
 
 h1{
@@ -38,17 +39,21 @@ header .toplogo{
     width: 300px;
     
 }
-.about p{
+#about p{
     column-count: 2;
+    line-height: 2;
 }
 
-.resume p{
+#resume p{
     column-count: 2;
+    line-height: 2;
 }
 
-.projects p{
-    column-count: 2;
+#projects p{
+    column-count: 1;
+    line-height: 2;
 }
+
 #name{  
     text-align: center;
     padding: 20px ;
